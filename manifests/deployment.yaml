@@ -25,7 +25,7 @@ spec:
     spec:
       containers:
       - name: angis-go
-        image: 895879716483.dkr.ecr.us-west-2.amazonaws.com/angis-go:63
+        image: 895879716483.dkr.ecr.us-west-2.amazonaws.com/angis-go:64
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 8080
